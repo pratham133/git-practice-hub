@@ -36,4 +36,5 @@ temp/
 *.pkl
 *.parquet
 output/
-outputs/
+outputs/scripts/
+issues.csv
