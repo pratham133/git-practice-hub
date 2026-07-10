@@ -11,5 +11,5 @@ Data validation, cleaning, and small pipeline utilities.
 
 Make sure you've read the root [CONTRIBUTING.md](../CONTRIBUTING.md) first.
 
-This track assumes you recieve the same base dataset/files as everyone else in Data Engineering —
+This track assumes you receive the same base dataset/files as everyone else in Data Engineering —
 do not modify shared files outside the one your issue names.
