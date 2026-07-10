@@ -1,4 +1,4 @@
-# ⚙️ Data Engineering Track
+# Data Engineering Track
 
 Data validation, cleaning, and small pipeline utilities.
 

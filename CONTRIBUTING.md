@@ -10,14 +10,14 @@ your account.
 ## 2. Clone your fork
 
 ```
-git clone https://github.com/<your-username>/cohort-practice-hub.git
-cd cohort-practice-hub
+git clone https://github.com/<your-username>/git-practice-hub.git
+cd git-practice-hub
 ```
 
 ## 3. Add the original repo as a remote (so you can stay in sync)
 
 ```
-git remote add upstream https://github.com/<org>/cohort-practice-hub.git
+git remote add upstream https://github.com/<org>/git-practice-hub.git
 ```
 
 ## 4. Claim an issue
@@ -54,7 +54,7 @@ issue when your PR is merged.
 ## 8. Open a Pull Request
 
 On GitHub, go to your fork and click **Compare & pull request**. Make sure it's comparing your
-branch against `<org>/cohort-practice-hub:main`. Fill in the PR template.
+branch against `<org>/git-practice-hub:main`. Fill in the PR template.
 
 ## 9. Respond to review feedback
 

@@ -1,4 +1,4 @@
-# 🗄️ SQL Track
+# SQL Track
 
 Beginner-level SQL practice against a small mock e-commerce database.
 
