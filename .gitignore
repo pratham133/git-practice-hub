@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ---- Environment / secrets ----
+.env
+*.env.local
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Logs / temp ----
+*.log
+tmp/
+temp/
+
+# ---- Data engineering / data science outputs (generated, not source) ----
+*.pkl
+*.parquet
+output/
+outputs/
