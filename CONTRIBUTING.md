@@ -17,7 +17,7 @@ cd git-practice-hub
 ## 3. Add the original repo as a remote (so you can stay in sync)
 
 ```
-git remote add upstream https://github.com/<org>/git-practice-hub.git
+git remote add upstream https://github.com/Navashub/git-practice-hub.git
 ```
 
 ## 4. Claim an issue
@@ -38,7 +38,7 @@ git checkout -b issue-42-fix-readme-typo
 
 ## 6. Do the work
 
-Make your change. Keep it focused — only touch what the issue asks for.
+Make your change. Keep it focused - only touch what the issue asks for.
 
 ## 7. Commit and push
 
@@ -54,11 +54,11 @@ issue when your PR is merged.
 ## 8. Open a Pull Request
 
 On GitHub, go to your fork and click **Compare & pull request**. Make sure it's comparing your
-branch against `<org>/git-practice-hub:main`. Fill in the PR template.
+branch against `Navashub/git-practice-hub:main`. Fill in the PR template.
 
 ## 9. Respond to review feedback
 
-A reviewer may leave comments. Push more commits to the same branch to address them — they'll
+A reviewer may leave comments. Push more commits to the same branch to address them - they'll
 show up automatically on the same PR.
 
 ## 10. Get merged, then sync back up

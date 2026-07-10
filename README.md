@@ -1,4 +1,4 @@
-#  Cohort Practice Hub
+#  Git Practice Hub
 
 A **shared practice repository** for all cohorts (SQL, Python, Data Engineering, Data Science)
 to get real, hands-on experience with **Git and GitHub collaboration** - forking, branching,
