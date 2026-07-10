@@ -1,0 +1,6 @@
+user_id,name,email,signup_date,country
+1,Amina Wanjiru,amina@example.com,2024-01-15,Kenya
+2,John Otieno,,2024-02-20,Kenya
+3,,grace@example.com,2024-03-05,Kenya
+4,David Kim,david@example.com,not_a_date,Korea
+5,Amina Wanjiru,amina@example.com,2024-01-15,Kenya
